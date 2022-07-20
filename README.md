@@ -143,5 +143,4 @@ blockchain, cryptocurrencies, cryptography, bitcoin, ethereum
 
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=eajajul&style=plastic&label=Views"><img>
-<img src="https://badges.pufler.dev/visits/eajajul/eajajul?color=black&logo=github" />
 </p>
